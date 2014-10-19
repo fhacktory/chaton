@@ -1,0 +1,9 @@
+[submodule "marie"]
+	path = marie
+	url = git@github.com:fhacktory/marie.git
+[submodule "berlioz"]
+	path = berlioz
+	url = git@github.com:fhacktory/berlioz.git
+[submodule "toulouse"]
+	path = toulouse
+	url = git@github.com:fhacktory/toulouse.git
