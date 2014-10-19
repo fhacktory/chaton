@@ -6,6 +6,7 @@ Chaton was made the 2014-10-18 during the fhacktory hackaton in Paris by the
 Duchesse team.
 
 ## Components
+![Aristocats](aristocats.png)
 ### Berlioz
 Berlioz takes a full movie and create animated thumbnails we can stream to the
 client.
